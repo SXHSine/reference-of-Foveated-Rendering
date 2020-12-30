@@ -1,0 +1,37 @@
+视觉掩蔽：
+	1. 影响因素：
+		a. 空间域：视觉的大小不仅与邻近区域的平均亮度有关，还与邻近区域的亮度在空间上的变化（不均匀性）有关。假设将一个光点放在亮度不均匀的背景上，通过改变光点的亮度测试此时的视觉，人们发现，背景亮度变化越剧烈，视觉越高，即人眼的对比度灵敏度越低。这种现象称为空间域中的视觉的掩蔽效应（Masking）。
+		b. 时间域：实验表明，当电视图像序列中相邻画面的变化剧烈（例如场景切换）时，人眼的分辨力会突然剧烈下降，例如下降到原有分辨力的1/10。也就是说，当新场景突然出现时，人基本上看不清晰景物，在大约0.5秒之后，视力才会逐渐恢复到正常水平。显然，在这0.5秒内，传送分辨率很高的图像是没有必要的。研究者还发现，当眼球跟着画面中的运动物体转动时，人眼的分辨率要高于不跟着物体转动的情况。而通常在看电视时，眼睛是很难跟踪运动中的物体的。
+		c. 色彩域：在亮度变化剧烈的背景上，例如在黑白跳变的边沿上，人眼对色彩变化的敏感程度明显地降低。类似地，在亮度变化剧烈的背景上，人眼对彩色信号的噪声（例如彩色信号的量化噪声）也不易察觉。这些都体现了亮度信号对彩色信号的掩蔽效应。
+
+	2. 明度掩蔽效应：指在目标刺激信息随后呈现的闪光越明亮，被试对目标刺激信息的回忆成绩就越差，好像是闪光在擦拭原先呈现的图像似的。在明度掩蔽中，亮光的强度在掩蔽中起着关键性作用。在亮度知觉的实验中，掩蔽的破坏效应是它的亮度及其持续时间的复合函数。如一个以20英尺朗伯亮光的亮光持续2ms，正好相当于以5英尺朗伯亮光持续8ms时的破坏效应。只有在同一只眼睛前呈现目标刺激和掩蔽刺激，图像才会被破坏。在右眼前呈现字母，而随后在左眼前呈现闪光，就不会导致掩蔽效应。这表明，掩蔽效应是在视网膜水平，即它在两眼信息整合之前就已经发生了。
+
+	3. 模式掩蔽效应：随后呈现的图像刺激信息对被试的回忆成绩产生的破坏效应。在模式掩蔽中，起重要作用的是目标字母呈现与掩蔽刺激开始之间的时间间隔。与明度遮掩相比，其效应的产生与否与在同一眼睛呈现掩蔽刺激是无关的。在右眼前呈现字母，而后在左眼前呈现模式刺激，会产生在同一只眼睛前呈现字母和图像刺激时同样的掩蔽效果，这表明模式掩蔽发生在两眼信息整合之后。
+
+视觉质量评价：
+	1. visual acuity（视锐度）：眼睛能分辨两物间最小距离的能力
+	2. CSF（对比敏感度函数）：视锐度检查反映了人眼对对比度为1的物体的分辨能力。但是实际上物体的对比度并不总是为1，而多数情况下小于1.对不同对比度下的物体识别就是对比敏感度函数。
+	3. 视野：视野是指周边视力，即当眼向前注视某一点时所能看到的空间范围。它反映的是视网膜黄斑部注视点以外的视力。距注视点30度以内的范围称为中心视野，30度以外的范围称为周边视野。
+	4. 立体视觉：立体视觉是在三维视觉空间感知立体形状和不同物体之间远近关系的能力。
+
+
+Perceptual Models：
+	1. Visual Acuity Measurements
+		1.a. Visual Eccentricity Fall-off Model									Foveal Spatial Sensitivity Reduction Measurement
+			top-down
+			visual eccentricity model
+			Gaze-Contingent Depth-Of-Field
+			human visual Acuity Distribution Function ADF
+			Resolution Distribution Function RDF
+		1.b. Anisotropic Acuity Fall-off Model
+			saccade
+		1.c. Fusional Visual Measurement
+		1.d. Ocular Dominance Measurement
+	2. Contrast Sensitivity Functions
+		2.a. Spatial Contrast Sensitivity Function
+		2.b. Temporal Contrast Sensitivity Function
+		2.c. Luminance Contrast Sensitivity Function
+		2.d. Color Contrast Sensitivity Function
+	3. Visual Masking based Models
+		3.a. Critical Band Masking Model
+
